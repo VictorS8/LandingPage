@@ -14,7 +14,7 @@ button {
 
 header {
   display: flex;
-  width: 80%;
+  width: 98%;
   height: 10vh;
   margin: auto;
   align-items: center;
@@ -48,6 +48,7 @@ nav {
   color: #5f5f79;
   font-size: 18px;
   text-decoration: none;
+  padding: 5px;
 }
 
 .cart {
@@ -57,7 +58,7 @@ nav {
 
 .presentation {
   display: flex;
-  width: 80%;
+  width: 90%;
   margin: auto;
   min-height: 80vh;
   align-items: center;
