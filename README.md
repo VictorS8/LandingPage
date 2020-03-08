@@ -6,8 +6,8 @@
 
 # Web Application
 
-<img src="./img/web.jpg" alt="WebApp" height="600px"/>
+<img src="./img/web.jpg" alt="WebApp" />
 
 # Mobile Application
 
-<img src="./img/iphonex.jpg" alt="IphoneApp" height="600px"/>
+<img src="./img/iphonex.jpg" alt="IphoneApp" />
